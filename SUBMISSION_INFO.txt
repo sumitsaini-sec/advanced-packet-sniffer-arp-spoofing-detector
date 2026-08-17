@@ -1,0 +1,12 @@
+PROJECT SUBMISSION
+==================
+Project: Advanced Packet Sniffer + ARP Spoofing Detector
+Technology: Python, Scapy
+Purpose: Passive packet monitoring and ARP spoofing detection on authorized/lab networks.
+
+Contents:
+- src/       Python source code and requirements
+- docs/      Project report and final professional report
+- evidence/  Four screenshots demonstrating execution, detection, logs, and project files
+
+Note: The project is intended for authorized/lab environments only.
